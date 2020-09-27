@@ -1,0 +1,12 @@
+C:\Users\jd\source\repos\CPUFrequencyWin\CPUFrequencyWin\bin\Debug\CPUFrequencyWin.exe.config
+C:\Users\jd\source\repos\CPUFrequencyWin\CPUFrequencyWin\bin\Debug\CPUFrequencyWin.exe
+C:\Users\jd\source\repos\CPUFrequencyWin\CPUFrequencyWin\bin\Debug\CPUFrequencyWin.pdb
+C:\Users\jd\source\repos\CPUFrequencyWin\CPUFrequencyWin\obj\Debug\CPUFrequencyWin.csprojAssemblyReference.cache
+C:\Users\jd\source\repos\CPUFrequencyWin\CPUFrequencyWin\obj\Debug\CPUFrequencyWin.Form1.resources
+C:\Users\jd\source\repos\CPUFrequencyWin\CPUFrequencyWin\obj\Debug\CPUFrequencyWin.Properties.Resources.resources
+C:\Users\jd\source\repos\CPUFrequencyWin\CPUFrequencyWin\obj\Debug\CPUFrequencyWin.csproj.GenerateResource.cache
+C:\Users\jd\source\repos\CPUFrequencyWin\CPUFrequencyWin\obj\Debug\CPUFrequencyWin.csproj.CoreCompileInputs.cache
+C:\Users\jd\source\repos\CPUFrequencyWin\CPUFrequencyWin\obj\Debug\CPUFrequencyWin.exe
+C:\Users\jd\source\repos\CPUFrequencyWin\CPUFrequencyWin\obj\Debug\CPUFrequencyWin.pdb
+C:\Users\jd\source\repos\CPUFrequencyWin\CPUFrequencyWin\bin\Debug\OpenHardwareMonitorLib.dll
+C:\Users\jd\source\repos\CPUFrequencyWin\CPUFrequencyWin\obj\Debug\CPUFrequencyWin.csproj.CopyComplete
